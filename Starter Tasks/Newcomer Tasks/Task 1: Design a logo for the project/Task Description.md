@@ -17,3 +17,4 @@ Participants are welcome to use already mastered software and tools and are enco
 
 ## Attributed Mentor:
 Attributed mentor to get in touch with for this task is **Stephane Fadanka**
+![LOGO](https://user-images.githubusercontent.com/72679550/137637355-854bb413-c0d1-4d04-8004-152778ca2418.PNG)
