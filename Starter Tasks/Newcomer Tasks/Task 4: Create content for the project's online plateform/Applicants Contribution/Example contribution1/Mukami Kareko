@@ -1,0 +1,34 @@
+## Project Name
+**Improving typhoid diagnostics through Open Science: An Artificial Intelligence-based Technique.**
+
+*A.	About Project*
+This project is part of Mboalab biotech projects, a branch of the Open Bioeconomy Lab hosted in MboaLab space. 
+Established in 2018, the lab currently runs a number of projects amongst which the open enzyme manufacturing project. 
+At its core, our work in Mboalab Biotech is focused on making biotechnology research and tools more accessible to labs around the world through scientific research and development and local production of reagents.
+We are committed to the development of open educational resources as well as simple and cost-effective protocols that can be applied in resource-limited laboratories. We also provide scientific research projects targeting local health issues, internships opportunities, and training sessions to young local scientists in order to equip them with molecular biology and DIY- Biology skills, and prepare them for employment.
+Context
+Typhoid or Enteric fever is one of the infectious human diseases in Cameroon and Africa. Outbreaks of typhoid fever caused by Salmonella Typhi remains a serious health problem worldwide. There are a number of tests available presently, from molecular to immunological and biochemical to microbiological. Some well-known and conventional Method of Diagnosis of Typhoid Fever are:
+•	Microbiological cultures:  The isolation of the causative organism, Salmonella enterica serovar Typhi (Salmonella Typhi), is the gold standard for the diagnosis (WHO, 2018). Body fluids like blood, bone marrow, stool, urine, rose spots, gastric and intestinal secretions may be cultured. Blood culture gives a definitive diagnosis. But, the use of bacteriological cultures for the diagnosis of typhoid infection is cost-intensive and technically difficult, hence the need for other diagnostic tests.
+•	Antibody detection tests:   These are rapid serologic tests designed for early and easy point-of-care use.  The Widal Test is based on the measurement of antibodies (agglutinins) against somatic (O) and flagellar (H) antigens of Salmonella typhi in the sera of patients. Widely used in many developing countries because of its low cost, Widal test is limited by lack of standardized methods of assay and misinterpretation of results. This has led to the overestimation of the number of patients presenting with acute febrile illnesses diagnosed with Typhoid fever. A systematic review by Mengist and Tilahun (2017) revealed poor reliability, low sensitivity and specificity of the Widal test.
+So, misdiagnosis is usually experienced since most health care facilities use only Widal test without confirmation of results with a second test method. In addition, the diagnosis of Typhoid involves several levels of uncertainties. Patients cannot tell exactly how they feel, doctors and nurses cannot tell exactly what they observe.
+
+*B.	About Mboalab*
+
+MboaLab is an open and collaborative space located in the village of Mefou-Assi, Yaoundé, Cameroon. 
+The word “Mboa” has different meanings in native Cameroonian languages: in Matakam, it means “new”; in Ewondo, it means “unique”; in Duala, it means “village”. 
+Literally translated, MboaLab is a unifying village dedicated to creation; even better, it is a laboratory for social innovation, community education, collaboration and mediation at the service of the community.
+Our goal is to catalyze sustainable local development and improve people’s living conditions through open science.
+
+*Vision*
+To improve typhoid diagnosis using Artificial Intelligence, in Open Source.
+
+*Mission*
+Improving Typhoid diagnosis through open source whilst making research and tools more accessible to labs around the world through scientific research and development.
+
+*Team*
+1.	Jafsia Elisee
+Jafsia is a researcher with interests in projects that use Machine Learning and Artificial Intelligence.
+2.	Stephane Fadanka
+Stephane is an early career researcher based in Mboalab. His has various research experience and interests in the screening of novel cheap and environmentally friendly biologically active compounds from microorganisms.
+3.	Thomas Mboa PhD
+Thomas is a researcher in information and communication with interest in the maker movement. Thomas is deeply engaged to promote DIYbio and to democratize Biotechnology in Africa.
