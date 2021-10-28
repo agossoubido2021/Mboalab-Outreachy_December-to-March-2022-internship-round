@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background: #d8d8e0;
+    
+}
+.header{
+    height: 100vh;
+}
+
+.navbar-style{
+    box-shadow: 0px 5px 10px #efefef;
+}
+
+.logo{
+    height: 48px;
+    padding: 2px 10px;
+}
+
+.icon-bar{
+    background: rgb(75, 75, 95);;
+}
+
+li a{
+    color: rgb(75, 75, 95);
+}
+
+.head{
+    text-align: center;
+    color: rgb(37, 37, 82);
+}
+.head1{
+    color: rgb(37, 37, 82);
+}
+.paragraph{
+    
+    color: rgb(37, 37, 82);
+    font-size: 20px;
+}
+.paragraph1{
+    text-align: center;
+    color: rgb(37, 37, 82);
+    font-size: 20px;
+}
+
+.mbo {
+    border: 3px solid #48435c;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+  h4{
+    text-align: center; 
+    font-size: 5px;
+  }
+  .list{
+
+        font-size: 20px;
+      color: rgb(37, 37, 82);
+  }
+
+  .mboa{
+    border: 3px solid #48435c;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+    
+  }
+ 
+  .mboal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #48435c;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%; 
+    
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }

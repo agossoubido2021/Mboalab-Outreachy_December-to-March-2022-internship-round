@@ -5,12 +5,12 @@ Our project is based on the use of a mix model combining AI systems and software
 
 Applicants are invited to choose and propose the best data collection tool of their choice, keeping the following requirements in mind:
 
-- The developped tool should be addresse to local health care professionals and practitionners affiliated and having access to patients data records;
+- The developed tool should be addresse to local health care professionals and practitionners affiliated and having access to patients data records;
 - The tool should enable acquisition of prospective and retrospective Datasets;
 - The tool should take into account local and context specificties (Language, access to specific resources etc..);
-- The developpe tool can take many forms examples include : Surveys, Questionaire, Interviews, online plateform or programs. 
+- The developed tool can take many forms examples include : Surveys, Questionaire, Interviews, online plateform or programs. 
 
-> ## **Note:** The focus of the task is just to design the tool. Applicants are not expected to deploy and use the tool (e.g. find participants for a developped survey or carry out an actual interview with them).  
+> ## **Note:** The focus of the task is just to design the tool. Applicants are not expected to deploy and use the tool (e.g. find participants for a developed survey or carry out an actual interview with them).  
 
 
 ## Tools and Skills: 
@@ -19,7 +19,7 @@ Applicants are invited to choose and propose the best data collection tool of th
 ## Main tasks to complete:
 - Select the prefered and 'most fitting' data collection tool to design for the project
 - Design the tool in order to collect the associations of symptoms that confirm the disease and its level of severity. 
-- Collect feedback about delvelopped tool from the community
+- Collect feedback about developed tool from the community
 
 ## Attributed Mentor:
 Attributed mentor to get in touch with for this task is **Dr. Thomas Mboa**

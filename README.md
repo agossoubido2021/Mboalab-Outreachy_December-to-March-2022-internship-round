@@ -1,4 +1,7 @@
 # Mboalab-Outreachy_December-to-March-2022-internship-round
+### About me
+Happy to be here and working on this pproject. Have been a victim of typhoid before and know how frustrating it is when you doubt the diagnosis given because each time you do the test its almost always positive. Its exciting to be able to contribute to a health problem faced by many in my community. Can't wait to begin.
+
 ## General information about the Project:
 
 In line with Outreachy’s guideline, the focus of our project is to prioritise the learning process and applicants self-development over skill acquisition. 
