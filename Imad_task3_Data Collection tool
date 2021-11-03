@@ -1,0 +1,39 @@
+
+#Task 3 : Design a Data Collection tool to record Typhoid fever symptom Data.
+
+There are two ways in which we can collect data:
+1(a) The first one is through online mode : In online mode "Google forms" are the best and the easiest way to collect data on large scale with less effort, 
+I have created a google form with some questionare and will add new questions after discussing it with mentors and community
+I have designed google form in such a way in which the collected data can be stored in structural rows and columns in a spreedsheet format.
+And at last I have created questions which accepts both numercial and categorical data as well.
+       
+but this method have a major drawback.
+       
+Drawbacks of first data collection method(online mode): 
+(a) The major disadvantage of this method is that it only work when there is a continous availability of internet 
+but most of the rural areas dont have any continous avalibility of internet or continous electricity supply
+        
+As a solution of this problem I have introduce several ways to collect data through offline mode in rural areas where this is no internet and electricity.
+    
+1(b) the second tool to collect data is through offline mode:specifically for the doctors and physicians working in rural areas. 
+        
+the top 4 tools are as follows:
+        
+1)Observation: Observation is the fundamental method used in village/rural studies. 
+It serves as a convenient blanket to cancel both ethical and methodological shortcomings in the actual research process.
+        
+2)Structured Schedule or Questionnaire:Illiteracy is a common phenomenon in rural/villages areas. 
+Hence, this method is not widely used. For factual data, however, the researcher administers the structured schedule.
+In this method, a set of questions is framed and persons with whom the information is to be collected are given the questionnaire. 
+The answers in the questionnaire are generally in the form of ‘yes’ or ‘no.’
+          
+ 3)Rural Survey:Surveys conducted for research purpose are holistic in nature. 
+ The totality of rural life in all its dimensions is presented through the tool of social survey. 
+ The government along with various universities has conducted many surveys to monitor changes in 
+ the structure and functioning of village economy due to external stimulus.
+          
+4)rural area Monographs:These monographs present an overall picture of the rural life. In these monographs, a casual observation of the rural life is made. 
+In this type, the fieldwork is non-intensive as here, researcher goes to the village concerned 
+and meets village heads or knowledgeable people there and collects the data.
+          
+       
