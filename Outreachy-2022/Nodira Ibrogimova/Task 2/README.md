@@ -31,12 +31,8 @@ The current version provides:
 - [x] SPA for an online platform foreseeing a template. Images have been shown in colored shapes. All are replaced once the assets are confirmed in the process of project development
 - [x] Responsive layout: Desktop, tablet and mobile versions of the website
 
-
-<img width="1440" alt="Screen Shot 2021-10-23 at 4 40 25 PM" src="https://user-images.githubusercontent.com/11291840/138554764-22ce68c2-96a1-4210-a834-934bf9103eac.png">
-
-<img width="1440" alt="Screen Shot 2021-10-23 at 4 56 46 PM" src="https://user-images.githubusercontent.com/11291840/138555010-27e9f623-0769-4708-8786-3d9f13744a6e.png">
-
-
 For more details visit [TF Diagnose](https://github.com/NodiraIbrogimova/TF-Diagnose/blob/main/README.md)
+
+[Live demo](https://nodiraibrogimova.github.io/TF-Diagnose/)
 
 Made with ♥ by Nodira
