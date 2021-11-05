@@ -41,13 +41,11 @@ Task list:
     
 	3. Build and migrate with Backend. The credentials of the datas could be visualized/analyzed [here](https://ftdiagnose.pythonanywhere.com/swagger/).
 
-- [x] Update Online Platform with a logo version 2.0.0
-
-- [x] Add Follow us links
-
-- [x] Update Blogs page
-
-- [x] Add Survey Page
+- [x] Updates in Online Platform:
+   1. Migration with a logo version 2.0.0
+   2. Add Follow us links in Online Platform
+   3. Update Blogs page in Online Platform
+   4. Add Survey Page in Online Platform
 
 # **SYNOPSIS**
 
