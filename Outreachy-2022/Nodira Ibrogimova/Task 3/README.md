@@ -138,4 +138,7 @@ If we want this tool to be compatible in any format (e.g. Desktop, mobile and we
 <img width="1440" alt="compatible app" src="https://user-images.githubusercontent.com/11291840/140494165-5809e67c-2aae-4365-aedc-9eaca7c19ae3.png">
 
 
-We can wrap our Angular (or any front-end application built with articular framewrok/library) in an ExpressJS to make it downloadable in various devices. In addition we can use Firbase and Google's Cloud Storage for REST API + storage.
+We can wrap our Angular (or any front-end application built with articular framewrok/library) in an Electron to make it downloadable in various devices. 
+
+Electron is a free and open-source software framework developed and maintained by GitHub. It allows for the development of desktop GUI applications using web technologies: it combines the Chromium rendering engine and the Node.js runtime.
+In addition, we can use Firbase and Google's Cloud Storage for REST API + storage.
