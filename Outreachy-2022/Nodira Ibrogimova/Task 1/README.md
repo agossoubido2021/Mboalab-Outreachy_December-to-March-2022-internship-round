@@ -24,6 +24,8 @@ Initial logo has been made regarding the general Mboalab project itself, while i
 
 I used the shape of the Salmonella typhi to give the sense of the bacteria causing Typhoid Fever. In addition, provided idea for the name of the project.
 
+To make logo match with broader range of researchs including data collection and early-diagnosis tools with *Clinicians + AI*, in another version of the logo the main color - green has been changed and the icon of Typhoid Fever has been replaced by the plus sign implying the relevance of the medical sphere in the project.
+
 Several versions of the logo are presented via the link below.
 
 The design of the logo is available at [Figma](https://www.figma.com/file/0MW7v9ZfVjhqQ3f20kQbL2/Untitled?node-id=0%3A1)

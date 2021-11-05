@@ -26,6 +26,29 @@ Task list:
 
 - [x] Integrate files providing details of the repository to a directly opened & read format
 
+
+-------
+- [x] Update the logo
+	- The versions of the logo (migration can be found) via [Figma](https://www.figma.com/file/0MW7v9ZfVjhqQ3f20kQbL2/Typhoid-Fever--early-diagnosis-%7C-Logo?node-id=0%3A1)
+
+- [x] Create Data Collection tool
+
+	1. Build front-end of the data collection tool. 
+    
+        NOTE: The earlier versions of the Online Platform and Data Collections were in green colors. To make logo match with broader range of researchs including data collection and early-diagnosis tools with Clinicians + AI, the main color - green has been changed and the icon of Typhoid Fever has been replaced by the plus sign implying the relevance of medical sphere in the project.
+        
+        The initial design has been integrated on behalf of the new version of logo. More details can be found via [Figma](https://www.figma.com/file/0MW7v9ZfVjhqQ3f20kQbL2/Typhoid-Fever--early-diagnosis-%7C-Logo?node-id=0%3A1)
+    
+	3. Build and migrate with Backend. The credentials of the datas could be visualized/analyzed [here](https://ftdiagnose.pythonanywhere.com/swagger/).
+
+- [x] Update Online Platform with a logo version 2.0.0
+
+- [x] Add Follow us links
+
+- [x] Update Blogs page
+
+- [x] Add Survey Page
+
 # **SYNOPSIS**
 
 Typhoid or Enteric fever disease caused by Salmonella Typhi remains a serious health problem worldwide including in Cameroon, Africa. Despite the conventional methods of diagnosing Typhoid such as:
