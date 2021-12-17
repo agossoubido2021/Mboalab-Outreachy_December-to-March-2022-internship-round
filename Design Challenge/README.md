@@ -1,0 +1,21 @@
+# Design Challenge
+
+Dear contributors, thanks a lot for your interest and staying with us regardless of the internship membership.
+
+To participate, please read the `Technical Documentation` we provided carefully.
+
+The aim of this challenge is to choose best design ideas for [mboalab.africa](mboalab.africa) website.
+This challenge is purely dedicated on *design* stage.
+If you want to contribute in development phase, please stay tuned for more updates.
+
+The team of Mboalab appreciate your inspiration and willingness to contribute, giving back to the community.
+
+## Sending contributions
+For the Mboalab repository, clone it in your working directory and create a new branch: `design-challenge`
+In a `Design Challenge` folder, create a file as `[Applicant Name].md` and list your contribution details in this folder.
+
+The end result should resemble this:
+ - `Design Challenge`
+     - `[Applicant Name].md`
+
+Push your updates to the design-challenge branch, and create a Pull Request to an original repository.
